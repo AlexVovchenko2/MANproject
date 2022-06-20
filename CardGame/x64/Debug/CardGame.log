@@ -1,4 +1,0 @@
-﻿  cg.cpp
-C:\Users\alexv\projects\CardGame\Players.h(30,9): warning C4804: <: небезопасное использование типа "bool" в операции
-C:\Users\alexv\projects\CardGame\Random.h(30,44): warning C4267: аргумент: преобразование из "size_t" в "int32_t"; возможна потеря данных
-  CardGame.vcxproj -> C:\Users\alexv\projects\CardGame\x64\Debug\CardGame.exe
