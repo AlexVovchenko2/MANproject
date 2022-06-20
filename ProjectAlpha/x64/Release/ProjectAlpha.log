@@ -1,0 +1,8 @@
+﻿  Source1.cpp
+  trash.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\alexv\projects\ProjectAlpha\trash.cpp(36): warning C4715: win: значение возвращается не при всех путях выполнения
+  All 186 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ProjectAlpha.vcxproj -> C:\Users\alexv\projects\ProjectAlpha\x64\Release\ProjectAlpha.exe
